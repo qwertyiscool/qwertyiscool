@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Drajad Kusuma Adi
+- 👀 I’m interested in programming and machine learning
+- 🌱 I’m currently learning HTML, CSS, Javascript
+- ✊ I'm a newbie in programming, but eager and willing to learn
